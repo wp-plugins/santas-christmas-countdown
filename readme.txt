@@ -6,7 +6,7 @@ Donate Link: http://christmaswebmaster.com/santa-claus-christmas-countdown-wordp
 Tags: christmas countdown, santa claus, holiday, christmas, widget-only, widget
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -37,9 +37,9 @@ At this time no. We hope to have it appear on a transparent background in the ne
 
 == Changelog ==
 
-
+Version 1.1 Released 10/03/12
 Version 1.0 Released 8/20/2012
 
 == Upgrade Notice ==
-
+Version 1.1 Released 10/03/12
 Version 1.0 Released 8/20/2012
