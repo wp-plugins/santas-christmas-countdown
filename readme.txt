@@ -14,7 +14,9 @@ Displays a cute Santa Claus Christmas Countdown in your sidebar.
 
 == Description ==
 
-The Christmas Countdown Widget displays a cute Santa Claus countdown to Christmas in your sidebar. The countdown automatically updates each year and starts the countdown over again on Christmas. The Christmas countdown will appear in your sidebar on a transparent background.
+The Christmas Countdown Widget displays a cute Santa Claus counting down to Christmas in your sidebar. On Christmas day Santa displays a "Merry Christmas" greeting to your visitors. Since the countdown automatically updates each year and starts the countdown over again on the day after Christmas, you can leave it in your sidebar all year round if you want! BTW - The Christmas countdown will appear in your sidebar on a transparent background so it looks good with any theme.
+
+For more information about Santa's countdown, visit [ChristmasWebmaster.com](http://christmaswebmaster.com/).
 
 == Installation ==
 
@@ -37,8 +39,8 @@ You are free to edit the plugin to your needs.
 
 == Changelog ==
 
-Version 1.1 Released 10/03/12
-Version 1.0 Released 8/20/2012
+1. Version 1.1 Released 10/03/12
+2. Version 1.0 Released 8/20/2012
 
 == Upgrade Notice ==
 Version 1.1 Released 10/03/12
