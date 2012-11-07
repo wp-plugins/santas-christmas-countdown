@@ -5,7 +5,7 @@ Plugin Name: Christmas Countdown Widget
 Plugin URI: http://christmaswebmaster.com/santa-claus-christmas-countdown-wordpress-plugin
 Description: Displays a cute Christmas countdown in your sidebar.
 Author: Monica Mays
-Version: 1.1
+Version: 1.2
 Author URI: http://christmaswebmaster.com/
 
 Christmas Countdown Widget is free software: you can redistribute it and/or modify
@@ -78,14 +78,14 @@ class xmascount extends WP_Widget
      thismon = today.getMonth();
      thisday = today.getDate();
      thisyr = today.getFullYear();
-if (thismon == 11 && thisday > 25)
+if (thismon == 11 && thisday > 26)
 	{
 	thisyr = ++thisyr;
-	BigDay = new Date(\"December 25, \"+thisyr);
+	BigDay = new Date(\"December 26, \"+thisyr);
 	}
 else
 	{
-	BigDay = new Date(\"December 25, \"+thisyr);
+	BigDay = new Date(\"December 26, \"+thisyr);
 	}
 
         msPerDay = 24 * 60 * 60 * 1000;
@@ -95,7 +95,14 @@ else
         e_hrsLeft = (e_daysLeft - daysLeft) * 24;
         hrsLeft = Math.floor(e_hrsLeft);
         minsLeft = Math.floor((e_hrsLeft - hrsLeft) * 60);
-        document.write(\"\" + daysLeft + \" days<br />til Christmas!\");
+if (daysLeft <= 0 )
+{ 
+document.write(\"Merry<br>Christmas!\")
+}
+else 
+{ 
+document.write(\"\" + daysLeft + \" days<BR>til Christmas!\"); 
+}
     </script></div></div>";
  
     echo $after_widget;

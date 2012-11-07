@@ -3,10 +3,10 @@
 
 Contributors: monkeymays
 Donate Link: http://christmaswebmaster.com/santa-claus-christmas-countdown-wordpress-plugin
-Tags: christmas countdown, santa claus, holiday, christmas, widget-only, widget
+Tags: christmas countdown, santa claus, holiday, christmas, widget-only, widget, sidebar, countdown
 Requires at least: 3.0
 Tested up to: 3.4.1
-Stable tag: 1.1
+Stable tag: 1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -14,7 +14,7 @@ Displays a cute Santa Claus Christmas Countdown in your sidebar.
 
 == Description ==
 
-The Christmas Countdown Widget displays a cute Santa Claus counting down to Christmas in your sidebar. On Christmas day Santa displays a "Merry Christmas" greeting to your visitors. Since the countdown automatically updates each year and starts the countdown over again on the day after Christmas, you can leave it in your sidebar all year round if you want! BTW - The Christmas countdown will appear in your sidebar on a transparent background so it looks good with any theme.
+The Christmas Countdown Widget displays a cute Santa Claus counting down to Christmas in your sidebar. On Christmas day Santa displays a "Merry Christmas" greeting to your visitors. Since the countdown automatically updates each year and starts the countdown over again on the day after Christmas, you can leave it in your sidebar all year round if you want! BTW - The Christmas countdown will appear in your sidebar on a transparent background so it looks good with any theme. 
 
 For more information about Santa's countdown, visit [ChristmasWebmaster.com](http://christmaswebmaster.com/).
 
@@ -39,9 +39,11 @@ You are free to edit the plugin to your needs.
 
 == Changelog ==
 
-1. Version 1.1 Released 10/03/12
-2. Version 1.0 Released 8/20/2012
+1. Version 1.0 Released 8/20/2012
+2. Version 1.1 Released 10/03/2012
+3. Version 1.2 Released 11/07/2012
 
 == Upgrade Notice ==
-Version 1.1 Released 10/03/12
+Version 1.2 Released 11/07/2012
+Version 1.1 Released 10/03/2012
 Version 1.0 Released 8/20/2012
