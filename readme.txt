@@ -39,9 +39,20 @@ You are free to edit the plugin to your needs.
 
 == Changelog ==
 
-1. Version 1.0 Released 8/20/2012
-2. Version 1.1 Released 10/03/2012
-3. Version 1.2 Released 11/07/2012
+= Version 1.2 Released 11/07/2012  =
+ 
+ * Fixed missing day due to leap year, please install update immediately.
+
+
+= Version 1.1 Released 10/03/2012 =
+
+ * Minor update to countdown script.
+ 
+
+= Version 1.0 Released 8/20/2012 =
+ 
+ * First offical release!
+
 
 == Upgrade Notice ==
 Version 1.2 Released 11/07/2012
