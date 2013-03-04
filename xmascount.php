@@ -78,14 +78,14 @@ class xmascount extends WP_Widget
      thismon = today.getMonth();
      thisday = today.getDate();
      thisyr = today.getFullYear();
-if (thismon == 11 && thisday > 26)
+if (thismon == 11 && thisday > 25)
 	{
 	thisyr = ++thisyr;
-	BigDay = new Date(\"December 26, \"+thisyr);
+	BigDay = new Date(\"December 25, \"+thisyr);
 	}
 else
 	{
-	BigDay = new Date(\"December 26, \"+thisyr);
+	BigDay = new Date(\"December 25, \"+thisyr);
 	}
 
         msPerDay = 24 * 60 * 60 * 1000;
