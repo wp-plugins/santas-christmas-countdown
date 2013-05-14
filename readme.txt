@@ -70,7 +70,7 @@ Use the shortcode `[countdown]` to display the countdown to the left of your tex
 
 = Version 1.0 Released 8/20/2012 =
  
- * First offical release!
+ * First release!
 
 
 == Upgrade Notice ==
