@@ -10,7 +10,7 @@ Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Displays a cute Santa Claus Christmas Countdown in your sidebar. NEW IN VERSION 2.0: Use the shortcode `[countdown]` to display the countdown on any post or page. 
+Displays a cute Santa Claus Christmas Countdown in your sidebar. Use the shortcode [countdown] to display the countdown on any post or page. 
 
 == Description ==
 
@@ -18,7 +18,7 @@ The Christmas Countdown Widget displays a cute Santa Claus counting down to Chri
 
 By the way... The Christmas countdown will appear in your sidebar on a transparent background so it looks good with any theme.
 
-NEW IN VERSION 2.0: Use the shortcode `[countdown]` to add the countdown to any post or page. 
+Now you can use the shortcode `[countdown]` to add the countdown to any post or page. 
 
 For more information about Santa's countdown, visit [ChristmasWebmaster.com](http://christmaswebmaster.com/).
 
