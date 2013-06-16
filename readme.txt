@@ -50,7 +50,9 @@ Use the shortcode `[countdown]` to display the countdown to the left of your tex
 == Changelog ==
 = Version 2.0 Released 05/13/2013  =
 
- * Restructured plugin files and updated code. Added shortcode so that the countdown can be used on any post or page.
+  * A quick note about updating to version 2 from a previous version: If you have the countdown in your sidebar and update from a previous version, you will have to visit the Widgets page in your admin and drag the countdown back to your side bar.
+
+ * Restructured plugin files and updated code. Added shortcode so that the countdown can be used on any post or page. See FAQ section for details or visit plugin home page.
 
 
 = Version 1.3 Released 03/04/2013  =
