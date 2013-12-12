@@ -5,7 +5,7 @@ Contributors: monkeymays
 Donate Link: http://christmaswebmaster.com/santa-claus-christmas-countdown-wordpress-plugin
 Tags: christmas countdown, santa claus, holiday, christmas, widget-only, widget, sidebar, countdown, shortcode
 Requires at least: 3.0
-Tested up to: 3.5.1
+Tested up to: 3.8
 Stable tag: 2.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
