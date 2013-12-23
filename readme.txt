@@ -6,7 +6,7 @@ Donate Link: http://christmaswebmaster.com/santa-claus-christmas-countdown-wordp
 Tags: christmas countdown, santa claus, holiday, christmas, widget-only, widget, sidebar, countdown, shortcode
 Requires at least: 3.0
 Tested up to: 3.8
-Stable tag: 2.0
+Stable tag: 2.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -28,7 +28,7 @@ For more information about Santa's countdown, visit [ChristmasWebmaster.com](htt
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to your widgets screen, and drag the Christmas Countdown widget to your sidebar.
 4. Let the countdown to Christmas begin!
-5. NEW in version 2.0: Use the shortcode `[countdown]` to display the countdown in any post or page.
+5. NEW in version 2+: Use the shortcode `[countdown]` to display the countdown in any post or page.
 
 == Frequently Asked Questions ==
 
@@ -48,6 +48,11 @@ Use the shortcode `[countdown]` to display the countdown to the left of your tex
 5. New in version 2.0 - use the shortcode `[countdown]` to display the countdown on any page or post.
 
 == Changelog ==
+= Version 2.1 Released 12/23/2013 =
+
+ * Updated Countdown Script
+
+ 
 = Version 2.0 Released 05/13/2013  =
 
   * A quick note about updating to version 2 from a previous version: If you have the countdown in your sidebar and update from a previous version, you will have to visit the Widgets page in your admin and drag the countdown back to your side bar.

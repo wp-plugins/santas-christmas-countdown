@@ -15,7 +15,7 @@ else
 msPerDay = 24 * 60 * 60 * 1000;
 timeLeft = (BigDay.getTime() - today.getTime() - 1);
 e_daysLeft = timeLeft / msPerDay;
-daysLeft = Math.floor(e_daysLeft);
+daysLeft = Math.ceil(e_daysLeft);
 if (daysLeft <= 0 )
 { 
 document.write("<br><br>Merry<br>Christmas!")
