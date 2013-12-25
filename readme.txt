@@ -50,7 +50,7 @@ Use the shortcode `[countdown]` to display the countdown to the left of your tex
 == Changelog ==
 = Version 2.2 Released 12/25/2013 =
 
- * Fixed extra spaces in Merry Chrsitmas display. 
+ * Fixed extra spaces in Merry Christmas display. 
  * Fixed countdown from saying `1 days left til Christmas` to say `1 day left til Christmas`. THANKS TO NICOLE FOR THIS EDIT :)
 
 = Version 2.1 Released 12/23/2013 =
