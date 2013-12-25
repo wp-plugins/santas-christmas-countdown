@@ -17,9 +17,12 @@ timeLeft = (BigDay.getTime() - today.getTime() - 1);
 e_daysLeft = timeLeft / msPerDay;
 daysLeft = Math.ceil(e_daysLeft);
 if (daysLeft <= 0 )
-{ 
-document.write("<br><br>Merry<br>Christmas!")
+{
+document.write("Merry<br>Christmas!")
 }
-else 
-{ 
+else if (daysLeft == 1 )
+{
+document.write( ""+daysLeft+" day <BR> til Christmas!");}
+else
+{
 document.write( ""+daysLeft+" days <BR> til Christmas!");}}

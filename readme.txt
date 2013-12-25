@@ -6,7 +6,7 @@ Donate Link: http://christmaswebmaster.com/santa-claus-christmas-countdown-wordp
 Tags: christmas countdown, santa claus, holiday, christmas, widget-only, widget, sidebar, countdown, shortcode
 Requires at least: 3.0
 Tested up to: 3.8
-Stable tag: 2.1
+Stable tag: 2.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,9 +48,14 @@ Use the shortcode `[countdown]` to display the countdown to the left of your tex
 5. New in version 2.0 - use the shortcode `[countdown]` to display the countdown on any page or post.
 
 == Changelog ==
+= Version 2.2 Released 12/25/2013 =
+
+ * Fixed extra spaces in Merry Chrsitmas display. 
+ * Fixed countdown from saying `1 days left til Christmas` to say `1 day left til Christmas`. THANKS TO NICOLE FOR THIS EDIT :)
+
 = Version 2.1 Released 12/23/2013 =
 
- * Updated Countdown Script
+ * Updated Countdown Script to show calendar days til Christmasmas properly. THANKS TO TIM FOR THIS EDIT :)
 
  
 = Version 2.0 Released 05/13/2013  =
