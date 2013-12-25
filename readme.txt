@@ -55,7 +55,7 @@ Use the shortcode `[countdown]` to display the countdown to the left of your tex
 
 = Version 2.1 Released 12/23/2013 =
 
- * Updated Countdown Script to show calendar days til Christmasmas properly. THANKS TO TIM FOR THIS EDIT :)
+ * Updated Countdown Script to show calendar days til Christmas properly. THANKS TO TIM FOR THIS EDIT :)
 
  
 = Version 2.0 Released 05/13/2013  =
