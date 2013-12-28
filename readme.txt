@@ -49,7 +49,7 @@ Use the shortcode `[countdown]` to display the countdown to the left of your tex
 
 == Changelog ==
 
-= Version 2.3 Released 13/28/2013 =
+= Version 2.3 Released 12/28/2013 =
 
  * Fixed error in countdown script to restart countdown the day after Christmas.
 
