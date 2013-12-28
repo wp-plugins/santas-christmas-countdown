@@ -4,7 +4,7 @@ thisday = today.getDate();
 thisyr = today.getFullYear();
 if (thismon == 11 && thisday > 25)
 	{
-	thisyr = +thisyr;
+	thisyr = ++thisyr;
 	BigDay = new Date("December 25, "+thisyr);
 	}
 else

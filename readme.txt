@@ -6,7 +6,7 @@ Donate Link: http://christmaswebmaster.com/santa-claus-christmas-countdown-wordp
 Tags: christmas countdown, santa claus, holiday, christmas, widget-only, widget, sidebar, countdown, shortcode
 Requires at least: 3.0
 Tested up to: 3.8
-Stable tag: 2.2
+Stable tag: 2.3
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,19 +48,24 @@ Use the shortcode `[countdown]` to display the countdown to the left of your tex
 5. New in version 2.0 - use the shortcode `[countdown]` to display the countdown on any page or post.
 
 == Changelog ==
+
+= Version 2.3 Released 13/28/2013 =
+
+ * Fixed error in countdown script to restart countdown the day after Christmas.
+
 = Version 2.2 Released 12/25/2013 =
 
  * Fixed extra spaces in Merry Christmas display. 
- * Fixed countdown from saying `1 days left til Christmas` to say `1 day left til Christmas`. THANKS TO NICOLE FOR THIS EDIT :)
+ * Fixed countdown from saying `1 days left til Christmas` to say `1 day left til Christmas`. Thanks Nicole, for this edit :)
 
 = Version 2.1 Released 12/23/2013 =
 
- * Updated Countdown Script to show calendar days til Christmas properly. THANKS TO TIM FOR THIS EDIT :)
+ * Updated Countdown Script to show calendar days til Christmas properly. Thanks Tim, for this edit :)
 
  
 = Version 2.0 Released 05/13/2013  =
 
-  * A quick note about updating to version 2 from a previous version: If you have the countdown in your sidebar and update from a previous version, you will have to visit the Widgets page in your admin and drag the countdown back to your side bar.
+ * A quick note about updating to version 2 from a previous version: If you have the countdown in your sidebar and update from a previous version, you will have to visit the Widgets page in your admin and drag the countdown back to your side bar.
 
  * Restructured plugin files and updated code. Added shortcode so that the countdown can be used on any post or page. See FAQ section for details or visit plugin home page.
 
