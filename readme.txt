@@ -38,7 +38,7 @@ It is transparent, but you are free to edit the plugin to your needs.
 
 = How do I display the countdown on posts and pages?  =
 
-Use the shortcode `[countdown]` to display the countdown to the left of your text, or use `[countdown-right]` to align the countdown to the right of your text, use '[countdown-center]' to display the countdown centered on a page or post.
+Use the shortcode `[countdown]` to display the countdown to the left of your text, or use `[countdown-right]` to align the countdown to the right of your text, use `[countdown-center]` to display the countdown centered on a page or post.
 
 == Screenshots ==
 1. Upload plugin and install.
