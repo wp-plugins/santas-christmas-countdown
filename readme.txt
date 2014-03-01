@@ -6,7 +6,7 @@ Donate Link: http://christmaswebmaster.com/santa-claus-christmas-countdown-wordp
 Tags: christmas countdown, santa claus, holiday, christmas, widget-only, widget, sidebar, countdown, shortcode
 Requires at least: 3.0
 Tested up to: 3.8
-Stable tag: 2.3
+Stable tag: 2.4
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -38,7 +38,7 @@ It is transparent, but you are free to edit the plugin to your needs.
 
 = How do I display the countdown on posts and pages?  =
 
-Use the shortcode `[countdown]` to display the countdown to the left of your text, or use `[countdown-right]` to align the countdown to the right of your text.
+Use the shortcode `[countdown]` to display the countdown to the left of your text, or use `[countdown-right]` to align the countdown to the right of your text, use '[countdown-center]' to display the countdown centered on a page or post.
 
 == Screenshots ==
 1. Upload plugin and install.
@@ -48,6 +48,10 @@ Use the shortcode `[countdown]` to display the countdown to the left of your tex
 5. New in version 2.0 - use the shortcode `[countdown]` to display the countdown on any page or post.
 
 == Changelog ==
+
+= Version 2.4 Released 03/01/2014 =
+
+ * Added shortcode for centering the countdown on a page or post. 
 
 = Version 2.3 Released 12/28/2013 =
 
@@ -77,7 +81,7 @@ Use the shortcode `[countdown]` to display the countdown to the left of your tex
 
 = Version 1.2 Released 11/07/2012  =
  
- * Fixed missing day due to leap year, please install update immediately.
+ * Fixed missing day issue, please install update immediately.
 
 
 = Version 1.1 Released 10/03/2012 =

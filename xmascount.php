@@ -5,7 +5,7 @@ Plugin Name: Christmas Countdown Widget
 Plugin URI: http://christmaswebmaster.com/santa-claus-christmas-countdown-wordpress-plugin
 Description: Displays a cute Christmas countdown in your sidebar.
 Author: Monica Mays
-Version: 2.3
+Version: 2.4
 Author URI: http://christmaswebmaster.com/
 
 Christmas Countdown Widget is free software: you can redistribute it and/or modify
@@ -42,6 +42,15 @@ function cw_CountDownShortcode_right() {
 }  
 add_shortcode('countdown-right', 'cw_CountDownShortcode_right');
 
+
+function cw_CountDownShortcode_center() {  
+    return '<div style="margin: 0 auto;"><div id="cw_countdown"><div class="cw_countdown-text">
+          <script type="text/javascript">
+          <!--
+          cw_axmascount();
+          //--></script></div></div></div>';  
+}  
+add_shortcode('countdown-center', 'cw_CountDownShortcode_center');
 
 //Enqueue Countdown Scripts and Styles
 
