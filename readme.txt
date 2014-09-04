@@ -5,8 +5,8 @@ Contributors: monkeymays
 Donate Link: http://christmaswebmaster.com/santa-claus-christmas-countdown-wordpress-plugin
 Tags: christmas countdown, santa claus, holiday, christmas, widget-only, widget, sidebar, countdown, shortcode
 Requires at least: 3.0
-Tested up to: 3.8
-Stable tag: 2.4
+Tested up to: 4.0
+Stable tag: 2.5
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -48,6 +48,10 @@ Use the shortcode `[countdown]` to display the countdown to the left of your tex
 5. New in version 2.0 - use the shortcode `[countdown]` to display the countdown on any page or post.
 
 == Changelog ==
+
+= Version 2.5 Released 09/04/2014 =
+
+ * Updated to be compatible with WordPress 4.0
 
 = Version 2.4 Released 03/01/2014 =
 
